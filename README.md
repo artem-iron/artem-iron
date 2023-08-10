@@ -2,9 +2,8 @@ Hi, I’m Artem Koloskov!
 
 I am working at [@iron-software](https://github.com/iron-software) on:
   * 📊 [IronXL](https://ironsoftware.com/csharp/excel/)
-  * 🔗 [IronWebScraper](https://ironsoftware.com/csharp/webscraper/)
   * 📈 [IronBenchmarks](https://github.com/iron-software/IronBenchmarks)
-  * 🛠 [VSSettings manager](https://github.com/iron-software/SolutionSpecificVSSettings)
+  * Lots of infra-stuff at Iron
  
  Personal GH is [@artemkoloskov](https://github.com/artemkoloskov)
  
